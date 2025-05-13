@@ -1,0 +1,16 @@
+.calculator {
+    width: 320px;
+    max-width: 100%;
+  }
+  
+  button {
+    height: 60px;
+    font-size: 1.2rem;
+  }
+  
+  #display {
+    height: 60px;
+    background-color: #f9f9f9;
+    border: 2px solid #ccc;
+  }
+  
